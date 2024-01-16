@@ -179,16 +179,17 @@ The following is an example screenshot of what your page should look like at thi
 
 ![screenshot of form page](images/L1-prj-form-example.png)
 
+<br>
+
 ## Submit the Project
-Before you submit your project:
-1. Make sure that you have validated your HTML and CSS code. If any errors were found within the validators, be sure to fix those errors before you submit your assignment.
-   > TIP: The validator extensions that you installed during the course introduction will provide details within the Problems tab as you code, which you can open from the `View` menu and then selecting the `Problems` option.
-2. Save your files and apply any final commits to your work.
-3. Push (i.e., sync) the repo on your computer with GitHub to ensure all files are uploaded for your instructor to see.
-4. Verify that all files appear on GitHub.
-> TIP: You can view any of your repos by going to the GitHub organization for the course - [RSC-CIS233DA-in-v8](https://github.com/rsc-cis233da-in-v8). You can bookmark the page for future reference. 
-5. Open the Pull Requests tab within GitHub (or using the GitHub Extension within VS Code).
-6. In the comment field, 
-   1. Type in your instructor's username with an `@` before. See the course announcements for their username to use. 
-   2. Put a note to your instructor that the assignment is ready to grade.
-7. Click on the `Comment` button to finalize and submit your assignment for grading.
+Once you have completed your project, you need to let your instructor know that it is ready to be graded. This is done by submitting the Repo URL to the assignment in RioLearn.
+
+   > **TIP:** If you need a refresher on how to submit your work, view: [Submitting Assignments & Viewing Feedback](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/submitting-assignments-and-viewing-feedback).
+1. Review your work and make any necessary updates. Save the file. You can either select **FILE>SAVE** or use the keyboard shortcut **CTRL+S**.
+2. **Sync** the changes and apply a final **Commit** that says: `Completed final review and updates before submission.`
+3. Verify that all files appear on GitHub.
+
+   > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [RSC-CIS233DA-IN-V9 Organization](https://github.com/rsc-cis233DA-in-v9). Once you are viewing the class organization, you should see all of the Repos that you have accepted assignment invitations for. It is recommended that you bookmark this page for future reference. Push (i.e., sync) the files on your computer with GitHub to ensure all files are uploaded to GitHub for your instructor to view.
+4. Right-click the link to your repository and select **Copy Link Address**.
+5. Go to the Assessing Your Learning page in your RioLearn lesson, and click the link to submit the assignment. Paste the link to your repo in the assignment submission box.
+
